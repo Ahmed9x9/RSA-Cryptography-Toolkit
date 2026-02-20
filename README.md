@@ -2,9 +2,7 @@
 
 Educational RSA toolkit built with Python and Tkinter for key generation, encryption/decryption, and digital signatures.
 
-## Important Notice
-
-This project is **NOT production-secure crypto**. It is intended for learning and academic demonstration only.
+Note: This is a learning project. NOT production-secure crypto. Use it for study and academic stuff only.
 
 ## Features
 
@@ -23,12 +21,6 @@ This project is **NOT production-secure crypto**. It is intended for learning an
 ```bash
 python RSA.py
 ```
-
-## Security Notes
-
-- This implementation uses textbook-style RSA operations for study purposes.
-- It does not implement modern production protections such as OAEP/PSS padding.
-- Do not use this code to protect real-world sensitive data.
 
 ## Repository Contents
 
